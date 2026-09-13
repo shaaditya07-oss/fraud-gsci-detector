@@ -7,6 +7,9 @@ SHAP (feature-level).
 
 ![fraud-gsci-detector](download%20(4).png)
 
+![fraud-gsci-detector](download%20(3).png)
+
+
 ## Live Demo
 https://fraud-gsci-detector-8znszyq9nd9rahpbghxiqp.streamlit.app/
 
