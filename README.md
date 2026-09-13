@@ -5,7 +5,7 @@ Forest, and XGBoost using a Fuzzy Measure and Choquet Integral ensemble
 technique — with full explainability via Shapley values (model-level) and
 SHAP (feature-level).
 
-![fraud-gsci-detector](download (4).png)
+![fraud-gsci-detector](download%20(4).png)
 
 ## Live Demo
 https://fraud-gsci-detector-8znszyq9nd9rahpbghxiqp.streamlit.app/
