@@ -6,7 +6,7 @@ technique — with full explainability via Shapley values (model-level) and
 SHAP (feature-level).
 
 ## Live Demo
-[Add your Streamlit Cloud link here after deployment]
+https://fraud-gsci-detector-8znszyq9nd9rahpbghxiqp.streamlit.app/
 
 ## Problem
 Credit card fraud detection is a highly imbalanced classification problem
